@@ -16,7 +16,7 @@ const quiz = [
         answer: 2
     },
     {
-        q:"They ___ go to school.",
+        q:"They ___ going to school.",
         options:["doesn't likes", "doesn't like", "don't likes", "don't like"],
         answer: 3
     },
@@ -31,7 +31,7 @@ const quiz = [
         answer: 1
     },
     {
-        q:"I ___ get up early.",
+        q:"I ___ getting up early.",
         options:["do not like", "don't likes", "am not like", "doesn't like"],
         answer: 0
     },
@@ -41,8 +41,8 @@ const quiz = [
         answer: 3
     },
     {
-        q:"My friend often ___ homework.",
-        options:["don't does", "doesn't do", "don't do", "isn't do"],
+        q:"My friend ___ often ___ homework.",
+        options:["don't / does", "doesn't / do", "don't / do", "isn't / do"],
         answer: 1
     },
     {
